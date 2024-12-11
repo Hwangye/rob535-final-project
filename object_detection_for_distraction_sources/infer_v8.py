@@ -9,7 +9,7 @@ model_path = "yolov8x-oiv7.pt"
 
 # Path to the input image
 #image_path = "pedestrians.jpg"  # e.g. 'test.jpg'
-image_path = "luggage2.png"
+image_path = "result_132.jpg"
 
 # Load the YOLOv8 model
 model = YOLO(model_path)
