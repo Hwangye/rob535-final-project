@@ -27,3 +27,10 @@ python infer_v8.py
 For the full video frames, we run `run_frames_yolo.py` file, which does the same operation for multiple images.
 
 ## Pedestrian Trajectory Estimation
+
+Follow the notebook for this part. Ensure you have the following files and resources:
+
+1. **Dataset**: Download the required data from the [Campus Dataset](https://svip-lab.github.io/dataset/campus_dataset.html).
+2. **Code and Processed Data**: Get the dataloader functions and extracted bounding box data from this repository: [Leveraging Trajectory Prediction for Pedestrian Video Anomaly Detection](https://github.com/akanuasiegbu/Leveraging-Trajectory-Prediction-for-Pedestrian-Video-Anomaly-Detection).
+
+Make sure to set up your environment correctly to use these files with the provided notebook.
