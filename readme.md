@@ -3,6 +3,14 @@
 Authors: Ali Ghadami, Yingrui Huang, Jeeho Ahn
 
 ## Human Pose Estimation
+First install open-mmlab toolbox
+```
+pip install -U openmim
+mim install mmengine
+mim install "mmcv>=2.0.1"
+mim install "mmpose>=1.1.0"
+```
+Then run  `python pose.py` for result. Change path to your image in the file.
 
 ## Object of Distraction Detection
 Detection using a trained model can be tested by running `infer_v8.py` python file.
