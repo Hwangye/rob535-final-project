@@ -26,7 +26,7 @@ python infer_v8.py
 
 For the full video frames, we run `run_frames_yolo.py` file, which does the same operation for multiple images.
 
-## Pedestrian Trajectory Estimation
+## Pedestrian Trajectory Prediction
 
 Follow the notebook for this part. Ensure you have the following files and resources:
 
